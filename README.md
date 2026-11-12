@@ -1,6 +1,6 @@
 # CRM Automation Engine (Case Study)
 
-👉 **[Click here to view the Interactive UI Mockup]([https://ashrafamiranalysis.github.io/crm-automation-engine/ui_mockups/extension_ui.html])**
+👉 **[Click here to view the Interactive UI Mockup](https://ashrafamiranalysis.github.io/crm-automation-engine/ui_mockups/extension_ui.html)**
 
 > **Note:** Due to NDA and intellectual property guidelines, the core source code for this project is proprietary and cannot be shared. This repository serves as a technical case study demonstrating the system architecture, UI/UX design principles, and business impact of the tool.
 
